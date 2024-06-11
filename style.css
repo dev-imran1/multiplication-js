@@ -1,0 +1,12 @@
+#number{
+    padding: 5px 0px;
+    font-size: 30px;
+    text-align: center;
+}
+
+button{
+    padding: 8px 40px;
+    font-size: 25px;
+    background-color: gray;
+    color: white;
+}
